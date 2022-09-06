@@ -13,7 +13,7 @@
 {"key": "T4","name": "🐞T4爬虫(搜索)","type": 4,"api": "https://t4.secan.icu/vod?sites=all","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"妙妙屋$https://anime.mqmmw.ga#晴园$https://alist.52qy.repl.co#小光盘$https://alist.xiaoguanxiaocheng.life#资源小站$https://960303.xyz/#菊花盘$https://pan.142856.xyz#帅盘$https://hi.shuaipeng.wang#轻弹浅唱$https://g.xiang.lol#嗨翻$https://pan.hikerfans.com","jar":"https://神器每日推送.tk/jar/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"},
 {"key":"csp_bendi","name":"🅿本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://神器每日推送.tk/jar/LocalFile.zip;md5;888f16e7d29e9a5192636d2b427d35ce"},
-{"key":"csp_Bili","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,ext":" https://szxinhui508.github.io/0906BBB/bili.txt"},
+{"key":"csp_Bili","name":"B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://szxinhui508.github.io/0906BBB/bili.txt"},
 
 {"key":"低端","name":"🐞低端(长老)","type":4,"api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"柠檬","name":"🐞柠檬(长老)","type":4,"api":"https://vod.kooo.eu.org/t4/vip11a0c4","searchable":1,"quickSearch":1,"filterable":1},
