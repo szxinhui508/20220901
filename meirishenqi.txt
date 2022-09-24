@@ -4,7 +4,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "sites":[
-{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"39b84fbd0be0460596ba232938a46c41"},
 {"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
