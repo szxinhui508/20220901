@@ -14,6 +14,7 @@
 {"key":"csp_bendi","name":"本地文件(仅播视频)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1,"jar":"https://神器每日推送.tk/jar/LocalFile.zip;md5;888f16e7d29e9a5192636d2b427d35ce"},
 
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lib.json"},
 {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jihuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -26,6 +27,7 @@
 {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
 {"key":"csp_Lezhu","name":"乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E7%93%9C%E7%9A%AETV.json"},
 {"key": "csp_Yj1211","name": "网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Anime1","name": "小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Anime1","name":"Anime1","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
